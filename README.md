@@ -1,6 +1,6 @@
 # Find_My_Friends_AndroidApp
 
-#Layout Project
+##Layout Project
 
 Main Activity
 
