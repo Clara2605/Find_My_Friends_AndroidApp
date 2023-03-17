@@ -1,5 +1,7 @@
 # Find_My_Friends_AndroidApp
 
+#Layout Project
+
 Main Activity
 
 ![mainActivity](https://user-images.githubusercontent.com/72797657/225972960-6398779a-8604-4834-bcbc-fe1c9b88edf2.png)
